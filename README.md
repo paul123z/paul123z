@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Pavol Lantaj</h1>
 <h3 align="center">A passionate software developer, IT manager from Europe</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paul123z" alt="paul123z" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://pavol-lantaj.web.app/](https://pavol-lantaj.web.app/)
 
 - 📫 How to reach me **pavol.lantaj@gmail.com**
