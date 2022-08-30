@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Pavol Lantaj</h1>
 <h3 align="center">A passionate software developer, IT manager from Europe</h3>
 
-- 👨‍💻 All of my projects are available at [https://pavol-lantaj.web.app/](https://pavol-lantaj.web.app/)
+- 👨‍💻 My personal web portfolio [https://pavol-lantaj.web.app/](https://pavol-lantaj.web.app/)
 
 - 📫 How to reach me **pavol.lantaj@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pavollantaj/](https://www.linkedin.com/in/pavollantaj/)
+- 📄 My education and experience [https://www.linkedin.com/in/pavollantaj/](https://www.linkedin.com/in/pavollantaj/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
