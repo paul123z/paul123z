@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Pavol Lantaj</h1>
-<h3 align="center">A passionate software developer, IT manager, DevOps/Operations Specialist from Europe</h3>
+<h3 align="center">A passionate Software Developer, DevOps/Operations Specialist from Europe</h3>
 
 - 👨‍💻 My personal web portfolio [https://pavol-lantaj.web.app/](https://pavol-lantaj.web.app/)
 
